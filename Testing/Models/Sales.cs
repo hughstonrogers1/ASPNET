@@ -7,10 +7,6 @@ namespace Testing.Models
 {
     public class Sales
     {
-        public Sales()
-        {
-
-        }
 
         public int SalesID { get; set; }
         public int ProductID { get; set; }

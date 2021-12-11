@@ -8,11 +8,6 @@ namespace Testing.Models
     public class Employees
     {
 
-        public Employees()
-        {
-
-        }
-
         public int EmployeeID { get; set; }
         public string FirstName { get; set; }
         public string MiddleInitial { get; set; }
